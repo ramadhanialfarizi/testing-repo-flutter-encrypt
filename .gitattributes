@@ -1,1 +1,1 @@
-flutter_testing/** filter=git-crypt diff=git-crypt
+lib/** filter=git-crypt diff=git-crypt
